@@ -1,0 +1,17 @@
+radius of starting locations and hill
+if you want field boundaries
+friendly and opfor radar viewing options
+game time length, etc. 
+Then it will ask you to walk to those locations (both team's starting locations, hill location, and field boundaries)
+ask you if you want to save these settings for future games
+
+ - Location Radius
+ - View Friendlies
+ - View Enemies
+ - Game Length
+ - Timeout Length
+ - Locations
+    - Team A Starting Location
+    - Team B Starting Location
+    - Hill Location
+
