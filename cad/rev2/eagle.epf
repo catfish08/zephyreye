@@ -304,8 +304,8 @@ UsedLibrary="/home/brad/Development/eagle-5.6/lbr/zilog.lbr"
 UsedLibrary="/home/brad/Development/marick/cad/marick_lib/ads11xx.lbr"
 UsedLibrary="/home/brad/Development/marick/cad/marick_lib/atmel-2005.lbr"
 UsedLibrary="/home/brad/Development/marick/cad/marick_lib/marick.lbr"
-UsedLibrary="/home/brad/Development/zephyreye/trunk/cad/libs/xmega.lbr"
 UsedLibrary="/home/brad/Development/zephyreye/trunk/cad/libs/SparkFun.lbr"
+UsedLibrary="/home/brad/Development/zephyreye/trunk/cad/libs/xmega.lbr"
 
 [Win_1]
 Type="Control Panel"
