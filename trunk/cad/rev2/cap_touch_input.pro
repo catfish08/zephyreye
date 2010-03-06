@@ -2,26 +2,26 @@ EAGLE AutoRouter Statistics:
 
 Job           : /home/brad/Development/zephyreye/trunk/cad/rev2/cap_touch_input.brd
 
-Start at      : 23:02:40 (2/23/10)
-End at        : 23:02:47 (2/23/10)
-Elapsed time  : 00:00:07
+Start at      : 09:24:50 (3/6/10)
+End at        : 09:27:04 (3/6/10)
+Elapsed time  : 00:02:14
 
-Signals       :    37   RoutingGrid: 2 mil  Layers: 2
-Connections   :    62   predefined:  0 ( 0 Vias )
+Signals       :    36   RoutingGrid: 2 mil  Layers: 2
+Connections   :    64   predefined:  0 ( 0 Vias )
 
-Router memory :   13136704
+Router memory :   4634040
 
 Job has been interrupted!
 
 Passname          :    Busses     Route
 
-Time per pass     :  00:00:00  00:00:07
-Number of Ripups  :         0         4
-max. Level        :         0         1
-max. Total        :         0         2
+Time per pass     :  00:00:00  00:02:14
+Number of Ripups  :         0       195
+max. Level        :         0         3
+max. Total        :         0         9
 
-Routed            :         9        43
-Vias              :         0        35
-Resolution        :    14.5 %    69.4 %
+Routed            :         9        41
+Vias              :         0        36
+Resolution        :    14.1 %    64.1 %
 
 Final             : interrupted
