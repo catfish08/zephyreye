@@ -1,0 +1,6 @@
+The ZephyrEye is a small electronic gadget, inspired by video game first person shooter enemy radar screens, for use in the sport of paintballing.  Using GPS signals and long range transmitters, it can keep track of bases, forts, bunkers, field perimeter, as well as scoring for games such as King of the Hill, Capture the Flag, and video game favorites such as "Team Slayer" from Halo.
+
+It shows players where others are on the field (optionally, just friendlies) and the direction they are traveling.  Players can respawn just like in video games by returning to a neutral or base location for a timeout, wait there, and once the GPS says they've been there for long enough it allows them to return to gameplay.  "Dead Men Walking" are identified on the "radar" screen to discourage cheating and to keep guys from accidentally getting shot over and
+over again.  It also displays ammo count (usage detected by a microphone), time, and a has a basic menu-based messaging system for team direction.
+
+It consists of a cell phone sized color LCD display, GPS, XBee transmitter, and Li-Ion battery.  An AVR processor provides the smarts.
